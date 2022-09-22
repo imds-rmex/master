@@ -1,2 +1,2 @@
-# main
-Main IMDS RMEX Team repository
+# master
+Master IMDS RMEX Team repository
